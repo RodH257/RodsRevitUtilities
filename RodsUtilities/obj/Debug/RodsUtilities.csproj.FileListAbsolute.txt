@@ -1,0 +1,5 @@
+C:\devel\Revit Macros\2011\RodsUtilities\RodsUtilities\bin\Debug\RodsUtilities.dll
+C:\devel\Revit Macros\2011\RodsUtilities\RodsUtilities\bin\Debug\RodsUtilities.pdb
+C:\devel\Revit Macros\2011\RodsUtilities\RodsUtilities\obj\Debug\ResolveAssemblyReference.cache
+C:\devel\Revit Macros\2011\RodsUtilities\RodsUtilities\obj\Debug\RodsUtilities.dll
+C:\devel\Revit Macros\2011\RodsUtilities\RodsUtilities\obj\Debug\RodsUtilities.pdb
