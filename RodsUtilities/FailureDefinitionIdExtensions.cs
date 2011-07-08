@@ -7,7 +7,7 @@ namespace RodsUtilities
     /// <summary>
     /// Extension methods for the Revit API 
     /// </summary>
-    public static class ExtensionMethods
+    public static class FailureDefinitionIdExtensions
     {
         /// <summary>
         /// Gets the name of the FailureDefinitionId as defined in the BuiltInFailures namespace
